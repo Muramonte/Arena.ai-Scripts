@@ -21,10 +21,10 @@ Arena chat export (old) - старая захламленная версия
 If you somehow stumbled upon this repo and you have any other interesting or self-written scripts for arena.ai then you can write to me so that I can add them here:
 discord:  .muramonte. 
 
-
-
 ---
 
+
+# Ченджлог
 
 chat export old отличие от новой:
 - кнопка внизу по центру "Export"
